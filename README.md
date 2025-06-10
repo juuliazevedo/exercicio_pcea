@@ -1,3 +1,5 @@
 # exercicio_pcea
 
 ## Fazer um fork desse repositório e enviar uma alteração no README.md, com um parágrafo sobre essa matéria.
+
+A matéria de Fundamentos para Computação e Arquitetura de Computadores (Fund. P.C. e A. de Computadores) nos proporcionou, nesse 1º período, uma introdução sobre o funcionamento e a arquitetura das máquinas usadas por tantas pessoas. Dentre os assuntos abordados em sala de aula, inicialmente foram discutidos sistemas de informação, sistemas técnicos e sistemas sociotécnicos. Além disso, hardware e software também foram temas estudados. Em sequência, fluxogramas foram introduzidos em aula, assim como o assunto sobre EUC (End-User Computing) e EUD (End-User Development). O licenciamento de software e os direitos autorais foram tópicos importantes para entender as permissões de comercialização e personalização de softwares. Da mesma forma, a arquitetura de computadores, com exemplos de CISC e RISC, também teve grande relevância. Outro tópico abordado foi o paralelismo, que otimiza o tempo de execução de múltiplas tarefas em arquiteturas paralelas.
